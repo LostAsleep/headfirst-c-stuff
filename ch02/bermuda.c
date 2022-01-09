@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 
-// The arguments will store pointers so they nee dto be int *.
+// The arguments will store pointers so they need to be int *.
 void go_south_east(int * lat, int * lon)
 {
         // *lat can read the old value and set the new value.
